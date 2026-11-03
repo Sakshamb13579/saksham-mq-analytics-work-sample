@@ -23,8 +23,8 @@ and the Tableau package covering grants and business formation.
 - Each project folder contains its own documentation and supporting files.
 - Large raw source datasets are not included. The source data is described in
   the project documentation and the road-crash data dictionary.
-- The road-crash report is a public submission copy with course and instructor
-  details removed.
+- The road-crash report is a public submission copy with course, instructor,
+  and student-identification details removed.
 - The Salesforce project is a team deliverable. The project README identifies
   my contribution and does not present the complete analysis as individual
   work.
