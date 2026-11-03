@@ -1,0 +1,25 @@
+# Python and notebook-generated files
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+
+# R and local analysis files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large raw datasets and local extracts
+*.csv
+*.hyper
+*.xlsm
+
+# Local archives and temporary outputs
+*.zip
+*.tmp
+*.bak
